@@ -1,0 +1,120 @@
+
+### 4부: 실무에서 AI 활용, 오류 복구부터 최적화까지
+**주제:** 코딩이 전부가 아니다. AI와 함께하는 유지보수와 최적화.
+
+### How I used AI to understand a huge codebase
+https://youtu.be/XlcQ7Ml4t54?si=h65YDmZGedNxfDCc
+### How to Use AI to Find and Fix Problems in Code
+https://youtu.be/_4J_DG05sxc?si=S2mzUs1gPK1Z7GEu
+### Crazy AI Tools That Can Write Your Code | Must Watch For All Coders
+https://youtu.be/GbszBBNcImw?si=SfqjWMc_3YxVMAIe
+### Source Code Analysis | Q&A with Code Base | Talk to Your Code | Github Repo with LangChain
+https://youtu.be/uZjoJb3-vEU?si=BRICyRxdrLvBmJ5q
+### Simple Debugging Techniques for AI-Intent
+https://youtu.be/N0rvJ3yCD0Y?si=Vedg_9VcbMLlBhqP
+### How to Debug Code using AI | How to Debug
+https://youtu.be/_uDV_md6KEc?si=XbImfo9ZDikFHdHG
+### AI Show Live | Build Responsible AI using Error Analysis toolkit | Episode 4
+https://www.youtube.com/live/RrV1FXhjxBs?si=VDR1ToFr0mtkUJYL
+### Build Responsible AI using Error Analysis toolkit
+https://youtu.be/kIOZOYZ8_es?si=KWXyuGxhqr1KVsE8
+### SAINT 2023 | How Machine Learning revolutionizes the error analysis in software testing
+https://youtu.be/k9Ejvo9yopU?si=8szaRvyGCLzBMwbn
+### AI Code Review for Refactoring and Debugging
+https://youtu.be/RBfD3Jjo_bM?si=mVE_rZCM1T4bg9gG
+### Write and Debug Code with CodeMate AI
+https://youtu.be/Z7_4wtz-uNM?si=Dzxt7XAKoEQVUQBS
+### How to Automatically Review GitHub Pull Requests using AI
+https://youtu.be/8ElVQlyO65E?si=NfJU3rt8gTseZ8Av
+### Generative AI, GPT-4 Test Automation Code Reviews, and More!
+https://youtu.be/2yQlRyI4nJ4?si=NHhwPFQav9nGqnxq
+### Refactoring With AI — Thoughtworks Technology Podcast
+https://youtu.be/Kx7eIYxKARk?si=_jfZSxokdOm0z_Hf
+### Exploring the Future of AI-Driven Code Review Tools
+https://youtu.be/Vzl9EcdkG7Q?si=eE0fBlYgwjpuEzma
+### Cursor AI Tutorial for Beginners (How I Code 159% Faster)
+https://youtu.be/yk9lXobJ95E?si=5glQ7p19aYNLd2d3
+### Top 5 AI Tools That Are BETTER Than ChatGPT, But Nobody is Using Them | Coding & Productivity Tools
+https://youtu.be/5XnNom5YUk4?si=WtJBD6Nk_RiGTWRm
+### The Future of AI-Based Test Automation
+https://youtu.be/xfXZoYOWJEA?si=pezWxTyegj4q2D0a
+### How works Artificial Intelligence for risk management
+https://youtu.be/1qPoVmot7dE?si=LZXlFmXvOXrY8IQw
+### AI Based Project Risk Management Identifying And Mitigating Risk
+https://youtu.be/jvc4CC3AGpA?si=0Eq6ssppUuBbZrNT
+### Cover Your Apps With AI-Driven Test Impact Analysis & Code Coverage
+https://youtu.be/6sNW5fhkHY0?si=xLLvD8az55q3m8tv
+### Change Management using ChatGPT: Change Impact Assessments
+https://youtu.be/yL1kd7rmtIU?si=gaZ7fN9vgTzje_hT
+### Torvalds Speaks: Impact of Artificial Intelligence on Programming
+https://youtu.be/VHHT6W-N0ak?si=t6_pS5OC3YbhAeRA
+### Top 7 AI Powered Test Automation Tools in 2023 | AI Scoop Tools
+https://youtu.be/RSiHbOrgqec?si=oiEs2YZvQ2c3hsSA
+### 7 Free AI Tools For Software Testers
+https://youtu.be/AJQOFcdXP1M?si=NJykLMyGf2SWcFcR
+### Best AI Tools for Software Testers in 2024 : AI in Automation Testing
+https://youtu.be/5_CUNn3_L1o?si=WGwzbwz5xvgCUFUj
+### AI for Regression Testing, Generative AI Code Smells and More
+https://youtu.be/nihGbi4hFDI?si=ZzB8RA1E0rBpK8y_
+### AI-powered visual regression testing with Applitools and GitHub Actions - Open Source Friday
+https://youtu.be/-0Od82nOl1o?si=plqZCG8B_q2uOZTP
+### Easy Check - AI-Powered Automated Regression Testing & UI Comparison Tool with Record and Playback
+https://youtu.be/CV8BX4YnVUM?si=QTyTj5BQL9Kutqhu
+### 5 Tips to Generate PERFECT Code Every Time - Unlock AI’s Full Power
+https://youtu.be/kSzM8a8KBpQ?si=wWQmEmYQ52vtG_Bk
+### How to accelerate Design verification with AI ML
+https://youtu.be/FBt84B-aJaY?si=PgoLNWl6wIWweVVS
+### BEST AUTOMATION TESTING TOOLS, RANKED
+https://youtu.be/6NruSIn-7QA?si=iED1RqdKf6gmN6Da
+### Introducing Dr Migrate: the AI automation cloud migration & modernization platform by Altra
+https://youtu.be/IvLphGHSvdI?si=BZpAeDt_bvg9ACfk
+### Ignite 2024: Altra Presents Dr Migrate at Intel Booth – AI-Powered Cloud Migration and Modernizati
+https://youtu.be/Cxue1RLYi9Q?si=6EnCaloiQsGvepj-
+### Assess and migrate your data center at lightning speed using Dr Migrate on Azure
+https://youtu.be/U4LQ6h1dLM8?si=Pql85EtYXDZh0R65
+### Lab3: Dr Migrate
+https://youtu.be/aONFL2KGYrI?si=hssu5PI2XmPXZAn_
+### Transforming Cloud Migration with GenAI-Powered DBShift™
+https://youtu.be/wdQe4gLrJ0Y?si=dknwBwBqe8_I-KE9
+### The Future of Data Protection: Generative AI and Backup Strategies
+https://www.youtube.com/live/-2j-8EnFNho?si=2oCArQFl3HQmltVZ
+### Cyberattacks, Generative AI, and the future of data protection
+https://youtu.be/9LorC3MEbLc?si=VNdiqudNaZ_Pmh2v
+### AI and the Future of Data
+https://youtu.be/1IncI-jZroM?si=cOSc92a8-SB4h3s1
+### Maximizing Efficiency: Data Migration and Mapping Insights from a Business Analyst and Scrum Master
+https://youtu.be/P6qC2ksDPRo?si=fMOAu6wYJix7TVDc
+### Creating a Data Map - A Vital Step to Data Migration & System Integration
+https://youtu.be/LKFaa54VoLM?si=JjF51nb8CSnnsvWm
+### Business Analyst| How to collect Data Migration requirements?
+https://youtu.be/gqOemiE5BjQ?si=VZFQm6J5sBYe5rQ8
+### DevOps CI/CD Explained in 100 Seconds
+https://youtu.be/scEDHsr3APg?si=qlb4Kanooxercbgi
+### CI CD Pipeline Explained in 2 minutes With Animation!
+https://youtu.be/jZYrxk2WMbY?si=xYUUjfvSBJKVHJgd
+### The IDEAL & Practical CI / CD Pipeline - Concepts Overview
+https://youtu.be/OPwU3UWCxhw?si=kyydi_M_dDU16n1o
+### CI/CD Explained | How DevOps Use Pipelines for Automation
+https://youtu.be/M4CXOocovZ4?si=tbF6Xb0xewoPuBhW
+### How to design a modern CI/CD Pipeline
+https://youtu.be/KnSBNd3b0qI?si=ruUpJXEjYGE0dE_L
+### CI/CD Tutorial using GitHub Actions - Automated Testing & Automated Deployments
+https://youtu.be/YLtlz88zrLg?si=XvOdbJGoXMXG-KbC
+### Setting Up a GitHub Actions Pipeline With AI | Building A Startup In Real Time | Part 6
+https://youtu.be/gOGvzO2Slj8?si=dKFYeXLyYELZcXUG
+### How Code Review AI provides actionable feedback for common mistakes - New Feature Walkthrough
+https://youtu.be/cG6Bm5tCG4M?si=cSNW4-ZgVn938Tau
+### (AI Code Review) Revolutionizing Coding with Smart Automation
+https://youtu.be/ZCRVcAlTEXk?si=qKbDuSBS19rZKXMO
+### The Power of Teamwork in Programming: How Working Together Can Help You Succeed
+https://youtu.be/XRMfumMKZxA?si=Ulzd0YlfcMII23Vf
+### AI - ChatGPT for IT Professionals Course - Knowledge Sharing
+https://youtu.be/9se4GBSHvhg?si=Lw9OJh7lFiEPVzSZ
+### How people are using AI in the workplace
+https://youtu.be/19I-G0FLIN0?si=2asSyo0fqygoEGpx
+### AI for Education | Using AI Critically in the Classroom
+https://youtu.be/Uriw6oziM_Q?si=K2ezaA3OY0cvU-wo
+### AI Agents in Action - Learn with Real World Examples of Intelligent AI Agents
+https://youtu.be/ICGIxpTodrA?si=y4NtWhw8zwj4M4rI
+### 10 AI Examples In Real Life: How Artificial Intelligence Impacts Everyday Life
+https://youtu.be/Pq6Rdf7Va4c?si=4jv1NZDU_h7uyHNz
